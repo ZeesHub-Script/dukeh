@@ -2,7 +2,7 @@ loadstring(game:HttpGet(("https://github.com/ZeesHub-Script/dukeh/raw/refs/heads
 
        local Window = MakeWindow({
          Hub = {
-         Title = "Dukee Hub - No Key [ https://discord.gg/WYMXvrnpz2 ]",
+         Title = "Dukee Hub [ https://discord.gg/WYMXvrnpz2 ]",
          Animation = "discord.gg/WYMXvrnpz2"
          },
         Key = {
