@@ -1,4 +1,4 @@
-loadstring(game:HttpGet(("https://raw.githubusercontent.com/hluuvn/Roblox/refs/heads/main/main.lua")))()
+loadstring(game:HttpGet(("https://github.com/ZeesHub-Script/dukeh/raw/refs/heads/main/config.lua")))()
 
        local Window = MakeWindow({
          Hub = {
